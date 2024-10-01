@@ -86,6 +86,9 @@ dbPass = <password>
 
 ## Contributing
 
+We welcome contribution of all kinds! Before you get started, please take a moment to review our [Contributing Guidelines](./CONTRIBUTING.md) to understand the process and standards.
+
+Thank you for helping improve this project.
 
 ## Learn More
 
