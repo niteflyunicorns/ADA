@@ -8,7 +8,7 @@ We're excited to have you contribute to our project! Whether you're here to repo
 
 - [Submitting a pull request](#submitting-a-pull-request)
 
-- [Code of Conduct](./Code_of_Conduct.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ## Suggesting enhancements
 We are open to suggestions. To propose a new feature:
@@ -46,4 +46,4 @@ In your pull requests:
 3. Ensure the code passes all the tests and adheres to the code formatting style.
 
 ## Code of Conduct
-Please refer to the [Code of Conduct](./Code_of_Conduct.md) file for the rules.
+Please refer to the [Code of Conduct](./CODE_OF_CONDUCT.md) file for the rules.
