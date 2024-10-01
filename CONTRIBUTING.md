@@ -2,13 +2,13 @@
 We're excited to have you contribute to our project! Whether you're here to report an issue, submit a pull request, or work on a new feature, we're here to guide you through it.
 
 ## Table of Contents
--[Suggesting enhancemments](#suggesting-enhancements)
+- [Suggesting enhancemments](#suggesting-enhancements)
 
--[Reporting Bugs](#reporting-bugs)
+- [Reporting Bugs](#reporting-bugs)
 
--[Submitting a pull request](#submitting-a-pull-request)
+- [Submitting a pull request](#submitting-a-pull-request)
 
--[Code of Conduct](./Code_of_Conduct.md)
+- [Code of Conduct](./Code_of_Conduct.md)
 
 ## Suggesting enhancements
 We are open to suggestions. To propose a new feature:
