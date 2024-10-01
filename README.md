@@ -84,7 +84,7 @@ This project uses a specific dataset stored in MongoDB. Ensure you have access t
 ## Learn More
 
 ## License
-This project is licensed under XXXX - see the [LICENSE.md](/ADA/LICENSE.md) file for details.
+This project is licensed under XXXX - see the [LICENSE.md](/LICENSE.md) file for details.
 
 ## Contact
 For more details about how to get involved or set up with the project, feel free to each ou tto us. We are here to provide support and answer any questions you may have. Below are the best ways to contact our team: 
