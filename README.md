@@ -52,10 +52,10 @@ This project uses a specific dataset stored in MongoDB. Ensure you have access t
 
 ```
 [Database]
-dbUser = **<username>**
-dbHost = **<your-mongo-host>**
-dbPort = **<your-mongo-port>**
-dbPass = **<password>**
+dbUser = <username>
+dbHost = <your-mongo-host>
+dbPort = <your-mongo-port>
+dbPass = <password>
 ```
 
 ### Running the Project
