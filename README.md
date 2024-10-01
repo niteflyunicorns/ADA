@@ -90,8 +90,6 @@ We welcome contribution of all kinds! Before you get started, please take a mome
 
 Thank you for helping improve this project.
 
-## Learn More
-
 ## License
 This project is licensed under XXXX - see the [LICENSE.md](/LICENSE.md) file for details.
 
