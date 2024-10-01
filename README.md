@@ -94,7 +94,9 @@ This project is licensed under XXXX - see the [LICENSE.md](/LICENSE.md) file for
 
 ## Contact
 For more details about how to get involved or set up with the project, feel free to each out to us. We are here to provide support and answer any questions you may have. Below are the best ways to contact our team: 
-    - **Email**: Send your inquiries to [Savannah](chappus.savannah@gmail.com)
-    - **GitHub**: Use the issue tracker and comment spaces to communicate, especially if it's directly related to the project. Remember, others benefit from seeing your questions, comments, and process too!
+
+**Email**: Send your inquiries to [Savannah](chappus.savannah@gmail.com)
+    
+**GitHub**: Use the issue tracker and comment spaces to communicate, especially if it's directly related to the project. Remember, others benefit from seeing your questions, comments, and process too!
 
 We look forward to hearing from you and ensuring your experience with our project is successful and enjoyable!
